@@ -1,0 +1,21 @@
+{
+  "name": "WON K - Web Development, Mobile Apps & AI Chatbots",
+  "short_name": "WON K",
+  "description": "Professional web development, mobile app development, and AI chatbot solutions for businesses across Sri Lanka.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#F97316",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/da0sfjp8x/image/upload/v1751908830/logo_jxhfbb.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/da0sfjp8x/image/upload/v1751908830/logo_jxhfbb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
