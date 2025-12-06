@@ -85,7 +85,7 @@ const Index = () => {
       role: "CEO, TechStart Lanka",
       content:
         "WON K built our e-commerce platform from scratch. The site is blazing fast and our sales increased by 60% in the first quarter!",
-      rating: 5,
+      rating: 4,
     },
     {
       name: "Kamal Perera",
@@ -99,7 +99,7 @@ const Index = () => {
       role: "Marketing Manager, ConnectNow",
       content:
         "Their AI chatbot solution handles hundreds of customer queries daily. Our support costs dropped by 70%. Highly recommended!",
-      rating: 5,
+      rating: 4,
     },
   ];
 
