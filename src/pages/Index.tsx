@@ -89,7 +89,7 @@ const Index = () => {
     },
     {
       name: "Navindu Vithanage",
-      role: "Owner, Sonic Sri Lanka Studio",
+      role: "Owner, SL Audio Studio",
       content:
         "WONK created a clean and modern website for Sonic Sri Lanka Studio. The team was helpful, quick, and delivered exactly what we had in mind",
       rating: 5,
