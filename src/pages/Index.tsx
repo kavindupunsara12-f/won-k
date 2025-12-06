@@ -82,9 +82,9 @@ const Index = () => {
   const testimonials = [
     {
       name: "Piumi Wijesekara",
-      role: "CEO, TechStart Lanka",
+      role: "Owner, Miracle Cakes",
       content:
-        "WON K built our e-commerce platform from scratch. The site is blazing fast and our sales increased by 60% in the first quarter!",
+        "WONK Marketing built a beautiful and easy-to-use website for Miracle Cake. They captured our brand perfectly, worked fast, and were very supportive. The new site has already improved customer engagement and made ordering much easier. Highly recommended!",
       rating: 4,
     },
     {
