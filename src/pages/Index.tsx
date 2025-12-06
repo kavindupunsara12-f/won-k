@@ -84,22 +84,15 @@ const Index = () => {
       name: "Piumi Wijesekara",
       role: "Owner, Miracle Cakes",
       content:
-        "WONK Marketing built a beautiful and easy-to-use website for Miracle Cake. They captured our brand perfectly, worked fast, and were very supportive. The new site has already improved customer engagement and made ordering much easier. Highly recommended!",
+        "WONK Marketing really brought our Miracle Cake brand to life. The website looks beautiful, works smoothly, and the team was super easy to work with. Our customers already love it!",
       rating: 4,
     },
     {
-      name: "Kamal Perera",
-      role: "Owner, Food Express",
+      name: "Navindu Vithanage",
+      role: "Owner, Sonic Sri Lanka Studio",
       content:
-        "The mobile app they developed for our restaurant has been a game-changer. Customer engagement is through the roof!",
+        "WONK Marketing did a fantastic job on our Sonic Sri Lanka Studio website. It’s clean, modern, and exactly what we wanted. The team was helpful and easy to work with throughout.",
       rating: 5,
-    },
-    {
-      name: "Nimesha Silva",
-      role: "Marketing Manager, ConnectNow",
-      content:
-        "Their AI chatbot solution handles hundreds of customer queries daily. Our support costs dropped by 70%. Highly recommended!",
-      rating: 4,
     },
   ];
 
