@@ -81,7 +81,7 @@ const Index = () => {
 
   const testimonials = [
     {
-      name: "Priya Jayawardena",
+      name: "Piumi Wijesekara",
       role: "CEO, TechStart Lanka",
       content:
         "WON K built our e-commerce platform from scratch. The site is blazing fast and our sales increased by 60% in the first quarter!",
