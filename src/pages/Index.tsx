@@ -84,14 +84,14 @@ const Index = () => {
       name: "Piumi Wijesekara",
       role: "Owner, Miracle Cakes",
       content:
-        "WONK Marketing really brought our Miracle Cake brand to life. The website looks beautiful, works smoothly, and the team was super easy to work with. Our customers already love it!",
+        "WONK built a beautiful, smooth-running website for Miracle Cake. They understood exactly what we wanted, and our customers already love the new look and easy ordering.",
       rating: 4,
     },
     {
       name: "Navindu Vithanage",
       role: "Owner, Sonic Sri Lanka Studio",
       content:
-        "WONK Marketing did a fantastic job on our Sonic Sri Lanka Studio website. It’s clean, modern, and exactly what we wanted. The team was helpful and easy to work with throughout.",
+        "WONK created a clean and modern website for Sonic Sri Lanka Studio. The team was helpful, quick, and delivered exactly what we had in mind",
       rating: 5,
     },
   ];
